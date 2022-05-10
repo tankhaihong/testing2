@@ -1,6 +1,0 @@
-let productList = [
-        {"id":1,"name":'Samsung',"price":28000,"image":"samsung.jpg","description":"Samsumg the galexy"},
-        {"id":2,"name":'Iphone',"price":39000,"image":"iphone.jpg","description":"一天一蘋果，醫生遠離我"},
-        {"id":3,"name":'Google Pixel 6',"price":24000,"image":"Google pixel6.jpg","description":"最强相機"}
-       
-    ]
